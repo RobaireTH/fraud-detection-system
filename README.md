@@ -72,15 +72,15 @@ original_data = dataset["original"].to_pandas()
 refined_data = dataset["refined"].to_pandas()
 ```
 
-```txt
-The original CSV is now hostel on Hugging Face: https://huggingface.co/datasets/RobaireTH/Fraud-Detection-System-Dataset
+The original CSV is now hostel on Hugging Face: 
+https://huggingface.co/datasets/RobaireTH/Fraud-Detection-System-Dataset
 ## License
 
 MIT License
 
----
+```txt
 Thank you for staying around,
 Author: Mayowa Temitope, AKINYELE
----
+```
 
 # fraud-detection-system
