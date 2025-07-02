@@ -19,4 +19,5 @@ refined_data = dataset["refined"].to_pandas()
 ```
 
 ```txt
-The original CSV is now hostel on Hugging Face: https://huggingface.co/datasets/RobaireTH/Fraud-Detection-System-Dataset
+The original CSV is now hosted on Hugging Face:
+https://huggingface.co/datasets/RobaireTH/Fraud-Detection-System-Dataset
