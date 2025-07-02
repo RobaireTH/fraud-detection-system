@@ -72,7 +72,7 @@ original_data = dataset["original"].to_pandas()
 refined_data = dataset["refined"].to_pandas()
 ```
 
-The original CSV is now hostel on Hugging Face: 
+The original CSV is now hosted on Hugging Face: 
 https://huggingface.co/datasets/RobaireTH/Fraud-Detection-System-Dataset
 ## License
 
